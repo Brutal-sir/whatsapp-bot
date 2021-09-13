@@ -14,7 +14,7 @@
  
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Brutal-sir/whatsapp-bot/)
 
 [![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github/justpiple/whatsapp-bot)
 
@@ -22,7 +22,7 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/justpiple/whatsapp-bot/
+> git clone https://github.com/Brutal-sir/whatsapp-bot/
 > cd whatsapp-bot
 > npm i
 ```

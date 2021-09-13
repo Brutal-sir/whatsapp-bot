@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justpiple/whatsapp-bot.git"
+    "url": "git+https://github.com/Brutal-sir/whatsapp-bot.git"
   },
-  "author": "ben",
+  "author": "brutal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/justpiple/whatsapp-bot/issues"
+    "url": "https://github.com/Brutal-sir/whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/justpiple/whatsapp-bot#readme"
+  "homepage": "https://github.com/Brutal-sir/whatsapp-bot#readme"
 }
